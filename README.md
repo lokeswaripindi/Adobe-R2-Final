@@ -73,7 +73,7 @@ Given a folder of PDF files (`/input`), the system:
 ## 🧱 Project Structure
 
 ```
-Challenge_1A/
+Challenge 1A/
 ├── main.py              # Script to extract outline from PDFs
 ├── Dockerfile              # Docker build script
 ├── utils/
@@ -244,7 +244,7 @@ docker run --rm -v "%cd%/input:/app/input" -v "%cd%/output:/app/output" --networ
 ## 📁 Folder Structure
 
 ```
-Challenge1B/
+Challenge 1B/
 │
 ├── main.py                  # 🔁 Main orchestration script
 ├── config.json              # 🧩 Contains persona + job-to-be-done
