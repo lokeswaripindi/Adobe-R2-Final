@@ -1,0 +1,1025 @@
+{
+  "title": "M1L1",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "NPTEL Course",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Course Title: Security Analysis and Portfolio Management",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Course Coordinator: Dr. Jitendra Mahakud",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Module-1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Session-1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to Investment Management",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.1 What is Investment Management?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Investment is employing money in different instruments or assets in the present, with the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "expectation of a positive rate of return in the future. In other words investment is the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sacrifice in the present in the expectation of a future gain. The future returns are expected",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "to compensate the time the investors hold the asset, expected rate of inflation and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "uncertainty of the future. The emphasis has been given mostly on the financial assets and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "it is also extended to physical and real assets. Investment management is the process  of",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "administering the employment of money in financial and other instruments in the present,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "with the expectation of a positive rate of return in the future.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.2 How the Investments are Done?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Income level of the investor is the most important factor, which affects their investmnets",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "decision. In the process when the current income exceeds the current consumption the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "remaining amount of savings are generally invested in the market. When the current",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "consumption exceeds the current income also the investors can participate in the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "investmnet process through borrowings from the banks and other financial institutions. In",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "this case they have to pay back the borrowing amount as well as the interest charged on",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "this borrowed amount.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.3 Types of Investors",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Types of investors in the market are classified on the basis of the individuals\u2019 objective,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "investmnet horizon period and risk appetite or risk tolerance limit. Individuals who are",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "just using the market to make money quickly for a short period of time are called a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "traders. Their risk level has been high and they invest with their own money as well as",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "borrowed money. The market participants who like to stay in the morket for a longer",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "period of time, take moderate risk and usually invest with their own money are called as",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "investors. Other type of investors are referred as gamblers, who invest in a very short",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "period of time and take the highest risk among all the investors.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.4 Investment Constraints",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Major constraints of investment include liquidity, time horizon, tax concerns, legal and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "regulatory concerns and unique circumstances.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Liquidity",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "refers to the need for cash in excess of any savings or new contributions",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "available at a specific point in the future. A  Liquidity needs may be planned (child\u2019s",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "college funding in 10 years) or unplanned (a medical emergency) but both require ready",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ability to convert investments into cash. Some assets, such as real estate, may take",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "considerable time to sell. Others, such as certificates of deposit, may impose early",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "withdrawal penalties.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Time horizon",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "typically refers to the time at which an investment",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "objective must be met. Some objectives such as saving for a house may have a short time",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "horizon, while retirement or endowment planning can have long horizons. Investors must",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "often plan for several time horizons at once. The time horizon influences the ability to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "accept risk and could modify asset allocation strategy. Investors with little tolerance for",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "temporary return fluctuations may need a different plan than would be suggested by time",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "horizon alone, and multiple time horizons can further constrain allocation decisions.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Tax",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "concerns",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "include differences between the tax rates for different types of investment",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "return (interest versus capital gains or dividends), estate taxes, differences between",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "current income and retirement income tax rates, and the potential for tax legislation to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "change.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Legal and regulatory factors",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "may include limits on the allocation to specific",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "assets, the ability to access certain funds and even prohibitions on certain investments.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Unique circumstances",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "may include social concerns and specific family needs. These",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "include a desire for socially responsible investments, health needs, dependent needs, and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the investors experience with certain types of investments. Apart from these the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "macroeconomic environment has been also an important factor to be considered for the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "investment.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1.5 Investmnet Decision Process",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Investment process involves analyzing the basic nature of investmnet decisions and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "organizing the activities in the decision process. In investments it is critical to distinguish",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "between an expected return i.e. the anticipated return for some future period and a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "realized return i.e. the actual return over some past period. Investors must always",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "consider the risk involved in investing. Risk is defined as the chance that the actual return",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "on an investmnet will be different from its expected return. In the fianncial market most",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of the investors are risk averse. A risk averse investor is one who will not assume risk",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "simply for its own sake and will not incur any given level of risk unless there is an",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "expectation of adequate compensation for having done so. In competitive financial",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "markets, the largest risks have the largest payoffs. In financial markets, investors are",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "constantly on the lookout for either the same risk for a larger return, or the same return",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "for lower risk. Investors manage risk at a cost - lower expected returns (ER).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Figure 1 the expected return-risk Trade-off available to investors",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Expected risk return trade-off between different",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "financial assets has been shown in the Figure 1.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The risk free rate of return is defined as the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "return on risk less asset often proxied by the rate",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "of return on treasury bills. From the figure it can",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "be seen that bonds are less risky than stocks and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "therefore, the expected return on bond is also",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "lower than the expected return on stock. Investors can choose from a wide range of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "securities in their attempt to maximize the expected return from these opportunities. They",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "face constraints; however, the most important factor has been the risk they face.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Traditionally, investors have analyzed and managed securities using a broad two-step",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "process: security analysis and portfolio management.  Security analysis is the first part of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the investment decision process involving the valuation and analysis of individual",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "securities. Portfolio management is the second step in the investment decision process",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "involving the management of a group of assets (i.e. a portfolio as a unit. The different",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "steps of portfolio management process are as follows:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Objectives and constraints of the investors",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Choice of the assets mix",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Formulation of investment strategy",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Selection of securities",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Execution of the portfolio",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio revision",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio performance evaluation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The factors which affect the portfolio management process are as follows:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Uncertainty in the ex-post or realized returns",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Availability of investment opportunities",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Types of investors",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Market efficiency",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "In the investment management process the common errors which take place are as",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "follows:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Inadequate idea about risk and return",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Biased formulation of investment policy",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Extrapolation of the past data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Love for cheap stocks",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Over or under diversification of assets",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Wrong attitude towards losses and profits",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The major qualities of successful investments are: (i) Creative dynamic thinking, (ii)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "patience, (iii) flexibility and (iv) decisiveness.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Additional Readings:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Alexander, Gordon, J., Sharpe, William, F. and Bailey, Jeffery, V.,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "\u201cFundamentals of Investment, 3",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edition, Pearson Education.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Bodie, Z., Kane, A, Marcus,A.J., and Mohanty, P. \u201c Investments\u201d, 6",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edition,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Tata McGraw-Hill.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Fisher D.E. and Jordan R.J., \u201cSecurity Analysis and Portfolio Management\u201d, 4th",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edition., Prentice-Hall.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Jones, Charles, P., \u201cInvestment Analysis and Management\u201d, 9",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edition, John",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Wiley and Sons.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Prasanna, C., \u201cInvestment Analysis and Portfolio Management\u201d, 3rd Edition, Tata",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "McGraw-Hill.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Reilly, Frank. and Brown, Keith, \u201cInvestment Analysis & Portfolio Management\u201d,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "7th Edition, Thomson Soth-Western.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "________________________________________________________",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Additional Questions with Answers",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Session- Introduction to Investment Management",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "_____________________________________________________________________",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Explain the meaning of investment? What are the qualities and constraint of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "successful investment?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Ans:  It is the current commitment / holding of money or other resources in the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "expectation of reaping further benefits and that will compensate the investor for: The",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "time the investors hold the fund, Expected rate of inflation, Uncertainty of the future.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Qualities for Successful Investment: Contrary thinking, Patience, Composure,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Flexibility, Decisiveness.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Major Investment Constraints are:  Time, Age, Risk Tolerance, Tax Liability,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Income fluctuations, Economic Conditions.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What are the Investment Decision Processes?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Ans. Investment Decision Processes:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Knowledge About Fundamentals of Investment: Expected Return and Realized",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Return",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Risk Return Tradeoff",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The Investment Decision Process: Two-step process",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Security analysis and valuation: Necessary to understand security",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "characteristics",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio management",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Selected securities viewed as a single unit",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Efficient  financial markets",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Measurement of portfolio performance",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What do you mean by Trade-off between Expected Return and Risk?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Ans. In competitive financial markets, the largest risks have the largest payoffs. In",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "financial markets, investors are constantly on the lookout for either the same risk for a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "larger return, or the same return for lower risk. Investors manage risk at a cost - lower",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "expected returns (ER).",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Discuss portfolio management process and factors affecting portfolio performance?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Ans. Portfolio Management Process:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Objectives and Constraint",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Choice of the asset mix",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Formulation of Strategy",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Selection of Securities",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio Execution",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio Revision",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Performance Evaluation",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Factors Affecting the Portfolio Management Process:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Uncertainty in ex post returns",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Quick adjustments",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Investment opportunities",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Types of Investors",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What are the different approaches towards investment decision in relation to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "better trade of between risk and return?",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Ans. Approaches to Investment Decision Making:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Fundamental: Analysis of Macroeconomic, company specific and industry",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "specific factors for decision making.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Psychological: Each investor is having own preference point of risk-return trade-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "off. Risk aversion in general may be true but given the individual investor\u2019s",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "behavioral judgment the choice of portfolio will be different.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Academic: Valuation technique suggested by finance theories.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Specialized: Technical analysis.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Qualities for Successful Investment:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Contrary thinking: Investment choice without any heard behaviour. Investor try to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "time the market in opposite to the common trend across the market.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Patience: Difference between investing and trading. In long run investment",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "horizon risk must be rewarded with higher premium.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Composure: Capable to distinguish between noise and information",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Flexibility: Proper balance of low risk and high risk investment avenues",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Decisiveness: Sound judgment based on the economic and fundamental factors.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Common Errors in Investment Management decision process;",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Inadequate idea about return and risk",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Biased formulation of investment policy",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Naive extrapolation of the past",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Simultaneous switching",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Love for cheap stocks",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Over diversification or Under diversification",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Wrong attitude towards losses and profits",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Tendency to speculate",
+      "page": 6
+    }
+  ]
+}
