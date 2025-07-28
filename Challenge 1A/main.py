@@ -1,4 +1,3 @@
-
 import os
 import json
 from utils.extractor import extract_headings_from_pdf
