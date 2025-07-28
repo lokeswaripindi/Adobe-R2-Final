@@ -1,4 +1,3 @@
-
 import os
 import json
 import fitz  # PyMuPDF
@@ -22,7 +21,7 @@ print("[🧠] Job description:", job_description)
 # 🔹 Create output folder if not exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 🔹 Step 1: Extract outline from all PDFs
+# 🔹 Step 1: Extract outline from all PDFs (no output JSONs here)
 def process_all_pdfs():
     all_outlines = []
 
@@ -35,18 +34,10 @@ def process_all_pdfs():
         title = filename.replace(".pdf", "")
         outline = extract_headings_from_pdf(filepath)
 
-        output_data = {
+        all_outlines.append({
             "title": title,
             "outline": outline
-        }
-
-        output_filename = filename.replace(".pdf", ".json")
-        output_path = os.path.join(OUTPUT_DIR, output_filename)
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(output_data, f, indent=2)
-
-        all_outlines.append(output_data)
-        print(f"[✔] Saved: {output_filename}")
+        })
 
     return all_outlines
 
