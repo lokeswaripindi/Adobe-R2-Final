@@ -284,7 +284,8 @@ Challenge 1B/
 
 Note:
 
-``` There is no rule that there should be involvement of every PDF in output JSON file  which was provided by user , Some may involve some may not according to there ranks and score , our backend system aims to produce most relevent matter from the provided PDF's which is useful for the user according to their persona and job to be done.
+```
+There is no rule that there should be involvement of every PDF in output JSON file  which was provided by user , Some may involve some may not according to there ranks and score , our backend system aims to produce most relevent matter from the provided PDF's which is useful for the user according to their persona and job to be done.
 ```  
 
 ---
