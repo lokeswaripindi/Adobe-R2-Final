@@ -1,4 +1,3 @@
-
 import fitz  # PyMuPDF
 
 def extract_headings_from_pdf(pdf_path):
