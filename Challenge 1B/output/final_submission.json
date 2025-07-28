@@ -1,0 +1,97 @@
+{
+  "persona": "Investment Analyst",
+  "job_to_be_done": "Analyze trends in R&D spending across companies",
+  "processing_timestamp": "2025-07-23",
+  "extracted_sections": [
+    {
+      "document": "M1L1.pdf",
+      "section_title": "Jones, Charles, P., \u201cInvestment Analysis and Management\u201d, 9",
+      "page_number": 4,
+      "level": "H2",
+      "score": 0.5882,
+      "importance_rank": 1,
+      "refined_text": "Inadequate idea about risk and return  Biased formulation of investment policy  Extrapolation of the past data  Love for cheap stocks  Over or under diversification of assets. major qualities of successful investments are: (i) Creative dynamic thinking, (ii) patience, (iii) flexibility and (iv) decisiveness."
+    },
+    {
+      "document": "inv.pdf",
+      "section_title": "Investment Analysis",
+      "page_number": 1,
+      "level": "H1",
+      "score": 0.5778,
+      "importance_rank": 2,
+      "refined_text": "Aswath Damodaran 1 Picking the Right Investments: Investment Analysis Aswath Damodaran."
+    },
+    {
+      "document": "M1L1.pdf",
+      "section_title": "Reilly, Frank. and Brown, Keith, \u201cInvestment Analysis & Portfolio Management\u201d,",
+      "page_number": 4,
+      "level": "H2",
+      "score": 0.5562,
+      "importance_rank": 3,
+      "refined_text": "Inadequate idea about risk and return  Biased formulation of investment policy  Extrapolation of the past data  Love for cheap stocks  Over or under diversification of assets. major qualities of successful investments are: (i) Creative dynamic thinking, (ii) patience, (iii) flexibility and (iv) decisiveness."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "Increase in investments;",
+      "page_number": 26,
+      "level": "H2",
+      "score": 0.5465,
+      "importance_rank": 4,
+      "refined_text": "investors can assess the situation in the credit securities market. current yield indicates the amount of current income a bond provides relative to its market price."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "analyst are corporate reports, corporate announcements, information relating to corporate dividend",
+      "page_number": 17,
+      "level": "H2",
+      "score": 0.5247,
+      "importance_rank": 5,
+      "refined_text": "the semi strong form of the efficient-market hypothesis says that publicly available information cannot be used to earn consistently superior investment returns. the strong form of the efficient-market hypothesis could only be tested indirectly- by testing what happened to prices on days surrounding announcements."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "portfolio identified, the available investment types can be analyzed. This step involves examining",
+      "page_number": 2,
+      "level": "H2",
+      "score": 0.5243,
+      "importance_rank": 6,
+      "refined_text": "investment management process describes how an investor should go about making decisions. investment management process can be disclosed by five-step procedure. setting of investment policy includes setting of investment objectives."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "interrelationship as measured by correlation. Prior to this investors would examine investments",
+      "page_number": 42,
+      "level": "H2",
+      "score": 0.5242,
+      "importance_rank": 7,
+      "refined_text": "portfolio risk considers the standard deviation together with the covariance between securities. MARKOWITZ PORTFOLIO SELECTION Markowitz portfolio selection method identifies an investor\u2019s unique risk- return preferences."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "The main aim of the economic analysis is to examine how the firm would be able to perform under",
+      "page_number": 24,
+      "level": "H2",
+      "score": 0.5175,
+      "importance_rank": 8,
+      "refined_text": "qualitative indicators are those which measure the factors influencing the credibility of the firm. most of these factors are subjective in their nature and valuation, are not quantifiable. analysis of economic fundamentals is focused on the macroeconomic situation."
+    },
+    {
+      "document": "IAPM.pdf",
+      "section_title": "analysis. But most important financial",
+      "page_number": 23,
+      "level": "H2",
+      "score": 0.5111,
+      "importance_rank": 9,
+      "refined_text": "the ABS are related with the new market terminology \u2013 securitization. the main features of ABS for investor: relatively high yield, shorter maturities (3 -5 years) and monthly, rather than semiannual principal/ interest payments. from their introduction to the market they were ranked as high credit quality instruments."
+    },
+    {
+      "document": "cbse-class-11-business-studies-notes-chapter-2.pdf",
+      "section_title": "investment in the company.",
+      "page_number": 11,
+      "level": "H3",
+      "score": 0.5093,
+      "importance_rank": 10,
+      "refined_text": "joint stock company The Companies Act defines, \"a company as an artificial person having a separate legal entity, perpetual succession and a common seal\" a company is created by law and has legal status but does not function like human beings."
+    }
+  ]
+}
