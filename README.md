@@ -136,7 +136,9 @@ This project enhances the outlines extracted in Round 1A by ranking the most rel
 
 It acts as a foundational component of a smart document analysis engine — surfacing the most meaningful and contextually appropriate parts of the content, especially for use cases like financial analysis, education, research, and more.
 ---
-
+---
+🚀 What It Does
+---
 1. 📂 Accepts multiple PDFs from the user  
 2. 🔍 Extracts section-wise outlines (headings + subheadings)  
 3. 🧠 Ranks the sections based on relevance to the persona’s job by scores
